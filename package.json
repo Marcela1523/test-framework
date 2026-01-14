@@ -20,7 +20,7 @@
     "@wdio/selenium-standalone-service": "^6.0.16",
     "@wdio/spec-reporter": "^6.1.9",
     "@wdio/sync": "^6.1.8",
-    "appium": "^1.17.1",
+    "appium": "^1.22.3",
     "chai": "^4.2.0",
     "webdriverio": "^6.1.11"
   }
